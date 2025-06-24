@@ -30,13 +30,9 @@ This project is a Convolutional Neural Network (CNN) based image classification 
 
 ## 📁 Dataset Structure (in Google Drive)
 
-/DataSet(YT)/
-├── happy_people/
-│ ├── happy1.jpg
-│ └── ...
-└── sad_people/
-├── sad1.jpg
-└── ...
+DataSet(YT) Contain two subfolder
+Happy(Contain Images of happy people)
+Sad(Contain Images of Sad people)
 
 ---
 
